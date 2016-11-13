@@ -5,6 +5,6 @@ package com.pjcstudio.supercamera.Interface;
  */
 
 public interface DialogInterface {
-    void onSuccesss(String selectString);
+    void onSuccess(String selectString);
     void onCancel();
 }
